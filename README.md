@@ -2,11 +2,16 @@
 
 <img src="Images/logo.png" alt="logo" class="center">
 
-> This repository holds documents and images regarding The Lithe Project.
+> This repository holds documents, images and snippets regarding The Lithe Project.
 
 #### Repo Directions
 
-- [The Lithe Project&trade; Logo](github.com/lithyriolu/resources/blob/master/images/logo.png)
+**Images**
+
+- [The Lithe Project&trade; Logo](https://github.com/LithyRiolu/Resources/blob/master/Images/logo.png)
+
+**Snippets**
+- [Flowconfig](https://github.com/LithyRiolu/Resources/blob/master/Snippets/flow.flowconfig)
 
 #### Other Lithe Projects
 
