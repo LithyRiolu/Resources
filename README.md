@@ -12,9 +12,11 @@
 
 **Snippets**
 - [Flowconfig](https://github.com/LithyRiolu/Resources/blob/master/Snippets/flow.flowconfig)
+- [PyMiner](https://github.com/LithyRiolu/Resources/blob/master/Snippets/PyMiner.py)
 
 #### Other Lithe Projects
 
+- **[Awesome CryptoNote](https://github.com/lithe-project/awesome-cryptonote)** - A curated list of awesome CryptoNote open-source blockchains, resources, projects, and shiny other things related.
 - **[DecentraChat](github.com/lithyriolu/decentrachat)** - Decentralised, P2P chatting application built using Go. In theory, each port is a chatroom.
 - [QML-FlatUI](github.com/lithyriolu/qml-flatui) - A component framework for creating elegant applications using QML.
 
