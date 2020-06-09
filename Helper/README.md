@@ -1,5 +1,9 @@
 ## Visual Studio Code (VS CODE)
 
+### EACCESS: permission denied
+
+![EACCESS](https://github.com/LithyRiolu/Resources/blob/master/Images/eaccess.png)
+
 > CONTEXT: When I was trying to create a file within the WSL of VS Code, I would get hit with an error `(NoPermissions (FileSystemError): EACCESS: permission denied, open '...`
 
 To fix this, I loaded a new Terminal within VS Code and typed the following command to allow me (as the user) to have the permissions to edit/write files:
